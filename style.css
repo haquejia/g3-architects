@@ -306,6 +306,11 @@ nav li a {
 
     }
 
+    .feature-part h2 {
+        border: 4px solid orangered;
+        border-radius: 7px;
+    }
+
     .feature-info {
         text-align: center;
     }
@@ -382,6 +387,18 @@ nav li a {
 
 
 
+    }
+
+    .exprience-img {
+        padding-right: 0;
+    }
+
+    .exprience-btn {
+        margin-top: 150px;
+    }
+
+    .iner-fact h2 {
+        margin-top: 0;
     }
 
     .sponsors {
